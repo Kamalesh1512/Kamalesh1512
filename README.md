@@ -1,8 +1,6 @@
 ### Hello World 👋
 
-**Kamalesh1512/Kamalesh1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on leveraging data to derive insights and am excited about the possibilities in the field of data science and Machine learning 
 - 🌱 I’m currently learning and interested in Computer Vision
