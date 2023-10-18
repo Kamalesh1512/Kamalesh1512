@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="mailto:kmgowda1512@gmail.com" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png" width=50px height=50px/></a>
+  <img align="center" src="https://help.sumologic.com/img/integrations/saas-cloud/gmail-icon.png" width=50px height=50px/></a>
 <a href="https://www.linkedin.com/in/kamalesh-mahadevappa-0a74b717a/" target="blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=50px height=50px/></a>
 <a href="https://www.kaggle.com/kamalesh1997" target="blank">
@@ -17,7 +17,7 @@
 <h5 align="center">⚠️Info: Eager to make a career transition into Data Science/AI/ML⚠️</h5>
 <h5 align="center">Experience in building AI/ML Models </h5>
 
-<p align="justify">Hello👋, I bring technical expertise in Python, SQL, and a Range of AI disciplines, including Machine Learning, Deep Learning and I have keen interest in the niche area ,Computer Vision</p>
+<p align="justify">Hello👋, I Bring Technical Expertise in Python, SQL, and a Range of AI Disciplines, Including Machine Learning, Deep Learning, and I Have Keen Interest in the Niche Area, Computer Vision.</p>
 
 
 <img align="right" alt="GIF" src="https://miro.medium.com/v2/resize:fit:1000/1*Bo6lga5VP5e4o_G6uJ-U-Q.gif" width="500" height="320" />
@@ -26,10 +26,7 @@
 
 - 🌱 I’m currently learning about : **Advanced Computer Vision**
 
-- 👯 I’m looking to collaborate on: **Deep Reinforcement learning**
-
 - 🤝 I’m looking for help with: **Job Opportunities in AI/ML Fields**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
