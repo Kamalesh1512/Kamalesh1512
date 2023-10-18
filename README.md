@@ -23,7 +23,7 @@
 
 <img align="right" alt="GIF" src="https://miro.medium.com/v2/resize:fit:1000/1*Bo6lga5VP5e4o_G6uJ-U-Q.gif" width="500" height="320" />
 
-- 🔭 I’m currently working on: ****
+- 🔭 I’m currently working on: **UpSkilling in Artificial Intelligence/Machine Learning**
 
 - 🌱 I’m currently learning about : **Advanced Computer Vision**
 
