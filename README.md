@@ -20,14 +20,15 @@
 
 <p align="justify">Hello👋, I Bring Technical Expertise in Python, SQL, and a Range of AI Disciplines, Including Machine Learning, Deep Learning, and I Have Keen Interest in the Niche Area, Computer Vision.</p>
 
-
-<img align="right" alt="GIF" src="https://miro.medium.com/v2/resize:fit:1000/1*Bo6lga5VP5e4o_G6uJ-U-Q.gif" width="500" height="320" />
-
 - 🔭 I’m currently working on: **UpSkilling in Artificial Intelligence/Machine Learning**
 
 - 🌱 I’m currently learning about : **Advanced Computer Vision**
 
 - 🤝 I’m looking for help with: **Job Opportunities in AI/ML Fields**
+
+
+
+<img align="center" alt="GIF" src="https://miro.medium.com/v2/resize:fit:1000/1*Bo6lga5VP5e4o_G6uJ-U-Q.gif" width="500" height="320" />
 
 
 <h3 align="left">Languages and Tools:</h3>
