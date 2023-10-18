@@ -8,7 +8,7 @@
 ### Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shsarv&label=Profile%20views&color=0e75b6&style=flat" alt="kamalesh1512" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2AF76C&center=true&vCenter=true&random=false&width=435&lines=Hi!!+Welcome+to+My+GitHub+Profile;I'm+kamalesh)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2AF76C&center=true&vCenter=true&random=false&width=435&lines=Hi!!+Welcome+to+My+Profile;I'm+a+Data+Scientist)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="mailto:kmgowda1512@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=red" /></a>
