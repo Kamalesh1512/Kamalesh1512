@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="mailto:kmgowda1512@gmail.com" target="blank"><img align="center" src="[https://static.vecteezy.com/system/resources/previews/029/824/611/original/communication-source-flat-icon-of-mail-vector.jpg](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/gmail-icon.png)" /></a>
+  <a href="mailto:kmgowda1512@gmail.com" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/gmail-icon.png" /></a>
 </p>
 
 
