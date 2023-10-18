@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalesh1512&label=Profile%20views&color=0e75b6&style=flat" alt="kamalesh1512" /> </p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0FF714&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Hi!!+Welcome+To+My+GitHub+Profile;I'm+Kamalesh+%2C+Data+Scientist" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=2FF716&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Hi!!!+Welcome+To+My+GitHub+Profile;I'm+Kamalesh+%2C+Data+Scientist" alt="Typing SVG" /></a>
 
 <p align="center">
 <a href="mailto:kmgowda1512@gmail.com" target="blank">
