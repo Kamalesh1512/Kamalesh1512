@@ -14,13 +14,13 @@
 </p>
 
 
-<h5 align="center">⚠️Info: Eager to make a career transition into Data Science⚠️</h5>
+<h5 align="center">⚠️Info: Eager to make a career transition into Data Science/AI/ML⚠️</h5>
 <h5 align="center">Experience in building AI/ML Models </h5>
 
 <p align="justify">Hello👋, I bring technical expertise in Python, SQL, and a Range of AI disciplines, including Machine Learning, Deep Learning and I have keen interest in the niche area ,Computer Vision</p>
 
 
-<img align="right" alt="GIF" src="https://github.com/shsarv/shsarv/blob/master/code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://miro.medium.com/v2/resize:fit:1000/1*Bo6lga5VP5e4o_G6uJ-U-Q.gif" width="500" height="320" />
 
 - 🔭 I’m currently working on: ****
 
@@ -90,9 +90,10 @@
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
 </p>
 
-<a href = "https://github.com/shsarv"><img src="https://github-readme-stats.vercel.app/api?username=shsarv&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=false"></a>
-<a href = "https://github.com/Kamalesh1512/">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shsarv&&langs_count=8&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515"></a>
+<a href = "https://github.com/Kamalesh1512">
+  <img src="https://github-readme-stats.vercel.app/api?username=shsarv&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=false"></a>
+<a href = "https://github.com/Kamalesh1512">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamalesh1512&&langs_count=8&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515"></a>
 <br />
 
 
