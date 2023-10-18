@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="mailto:kmgowda1512@gmail.com" target="blank"><img align="center" src="https://imgeng.jagran.com/images/2022/nov/12_10_2021-gmail_221064771667540555941.jpg" width=250px height=250px/></a>
+  <a href="mailto:kmgowda1512@gmail.com" target="blank"><img align="center" src="https://imgeng.jagran.com/images/2022/nov/12_10_2021-gmail_221064771667540555941.jpg" width=200px height=50px/></a>
 </p>
 
 
