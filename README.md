@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="mailto:kmgowda1512@gmail.com" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/gmail-icon.png" /></a>
+  <a href="mailto:kmgowda1512@gmail.com" target="blank"><img align="center" src="https://imgeng.jagran.com/images/2022/nov/12_10_2021-gmail_221064771667540555941.jpg" width=250px height=250px/></a>
 </p>
 
 
