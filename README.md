@@ -5,9 +5,12 @@
 
 
 <p align="center">
-<a href="mailto:kmgowda1512@gmail.com" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/gmail-icon.png" width=50px height=50px/></a>
-<a href="https://www.linkedin.com/in/kamalesh-mahadevappa-0a74b717a/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=50px height=50px/></a>
-<a href="https://www.kaggle.com/kamalesh1997" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png" width=50px height=50px/></a>
+<a href="mailto:kmgowda1512@gmail.com" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png" width=50px height=50px/></a>
+<a href="https://www.linkedin.com/in/kamalesh-mahadevappa-0a74b717a/" target="blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=50px height=50px/></a>
+<a href="https://www.kaggle.com/kamalesh1997" target="blank">
+  <img align="center" src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png" width=50px height=50px/></a>
 </p>
 
 
