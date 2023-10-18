@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="mailto:kmgowda1512@gmail.com" target="blank"><img align="center" src="[https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=red](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F29824611-communication-source-flat-icon-of-mail&psig=AOvVaw0OgdYrXiGMUtY-to_WkBvu&ust=1697708507232000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIi0sJan_4EDFQAAAAAdAAAAABAE)" /></a>
+  <a href="mailto:kmgowda1512@gmail.com" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/029/824/611/original/communication-source-flat-icon-of-mail-vector.jpg" /></a>
 </p>
 
 
