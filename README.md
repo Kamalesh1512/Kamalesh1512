@@ -89,7 +89,6 @@
     <div class="col">
       <a href = "https://github.com/Kamalesh1512">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamalesh1512&&langs_count=8&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515"></a>
-      <br />
     </div>
     <div class ="col">
       <h4 align="left">Support:</h4>
