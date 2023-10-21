@@ -77,16 +77,19 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 </div>
+
+<div>
 <a href = "https://github.com/Kamalesh1512">
   <img src="https://github-readme-stats.vercel.app/api?username=Kamalesh1512&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=false&include_all_commits=false"></a>
 <a href = "https://github.com/Kamalesh1512">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamalesh1512&&langs_count=8&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515"></a>
 <br />
+</div>
 
-
+<div>
 <h4 align="left">Support:</h4>
 <h4 align="left">Show your support by starring ⭐ some of the repositories  ! </h4>
-
+</div>
 
 
 
