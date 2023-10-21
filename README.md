@@ -21,14 +21,13 @@
 <h5 align="center">⚠️Info:Looking For New Opportunities In Data Science/AI/ML⚠️</h5>
 <h5 align="center">Experience in Building AI/ML Models </h5>
 
-<p align="justify">Hello👋, I Bring Technical Expertise in Python, SQL, and a Range of AI Disciplines, Including Machine Learning, Deep Learning, and I Have Keen Interest in the Niche Area, Computer Vision.</p>
+<p align="justify">Hello👋, I Bring Technical Expertise in Python, SQL, and a Range of AI Disciplines, Including Machine Learning, Deep Learning, and I Have Keen Interest in the Niche Area, Computer Vision,NLP.</p>
 
 - 🔭 I’m currently working on: **UpSkilling in Artificial Intelligence/Machine Learning**
 
-- 🌱 I’m currently learning about : **Advanced Computer Vision**
+- 🌱 I’m currently learning about : **Advanced Computer Vision**,**Natural Language Processing**
 
 - 🤝 I’m looking for help with: **Job Opportunities in AI/ML Fields**
-
 
 <div class="container">
   <div class="row">
