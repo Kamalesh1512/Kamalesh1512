@@ -80,7 +80,8 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamalesh1512&&langs_count=8&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515"></a>
     </div>
     <div class="col">
-      <p align="right">
+      <h3 align="left">Connect</h3>
+      <p align="left">
           <a href="mailto:kmgowda1512@gmail.com" target="blank">
             <img align="center" src="https://help.sumologic.com/img/integrations/saas-cloud/gmail-icon.png" width=25px height=25px/></a>
           <a href="https://www.linkedin.com/in/kamalesh-mahadevappa-0a74b717a/" target="blank">
