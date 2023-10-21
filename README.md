@@ -27,8 +27,8 @@
 - 🤝 I’m looking for help with: **Job Opportunities in AI/ML Fields**
 
 
-
-<img align="center" alt="GIF" src="https://miro.medium.com/v2/resize:fit:1000/1*Bo6lga5VP5e4o_G6uJ-U-Q.gif" width="500" height="320" />
+<div>
+<img align="right" alt="GIF" src="https://miro.medium.com/v2/resize:fit:1000/1*Bo6lga5VP5e4o_G6uJ-U-Q.gif" width="200" height="250" />
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -76,7 +76,7 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
-
+</div>
 <a href = "https://github.com/Kamalesh1512">
   <img src="https://github-readme-stats.vercel.app/api?username=Kamalesh1512&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=false&include_all_commits=false"></a>
 <a href = "https://github.com/Kamalesh1512">
