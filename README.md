@@ -30,12 +30,12 @@
 <div class="container">
   <div class="row">
 <!--     <div class="col">
-       <img align="left" alt="GIF" src="https://miro.medium.com/v2/resize:fit:1000/1*Bo6lga5VP5e4o_G6uJ-U-Q.gif" width="250" height="250" />&nbsp; 
+       <img align="left" alt="GIF" src="https://miro.medium.com/v2/resize:fit:1000/1*Bo6lga5VP5e4o_G6uJ-U-Q.gif" width="250" height="250" /> 
        <img align="left" alt="GIF" src="https://miro.medium.com/v2/resize:fit:3054/1*iZkt37UpqKojcP2ZQTuEOA.gif" width="250" height="250" />
     </div> -->
   <div class="col">
       <h3 align="left">Languages and Tools:</h3>
-        <p align="right"> 
+        <p align="left"> 
           <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
           <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -85,10 +85,9 @@
     <div class="col">
       <a href = "https://github.com/Kamalesh1512">
       <img src="https://github-readme-stats.vercel.app/api?username=Kamalesh1512&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=false&include_all_commits=false"></a>
-    </div>
-    <div class="col">
+      &nbsp;
       <a href = "https://github.com/Kamalesh1512">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamalesh1512&&langs_count=8&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515"></a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamalesh1512&&langs_count=8&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515"></a>
     </div>
     <div class ="col">
       <h4 align="left">Support:</h4>
