@@ -1,11 +1,6 @@
 ### Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalesh1512&label=Profile%20views&color=0e75b6&style=flat" alt="kamalesh1512" /> </p>
-<p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=2FF716&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Hi!!!+Welcome+To+My+GitHub+Profile;I'm+Kamalesh+%2C+Data+Scientist" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
+<p align="right">
 <a href="mailto:kmgowda1512@gmail.com" target="blank">
   <img align="center" src="https://help.sumologic.com/img/integrations/saas-cloud/gmail-icon.png" width=25px height=25px/></a>
 <a href="https://www.linkedin.com/in/kamalesh-mahadevappa-0a74b717a/" target="blank">
@@ -13,6 +8,14 @@
 <a href="https://www.kaggle.com/kamalesh1997" target="blank">
   <img align="center" src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png" width=25px height=25px/></a>
 </p>
+
+
+<p align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=2FF716&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Hi!!!+Welcome+To+My+GitHub+Profile;I'm+Kamalesh+%2C+Data+Scientist" alt="Typing SVG" /></a>
+</p>
+
+
 
 
 <h5 align="center">⚠️Info:Looking For New Opportunities In Data Science/AI/ML⚠️</h5>
