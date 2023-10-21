@@ -29,13 +29,11 @@
 
 <div class="container">
   <div class="row">
-    <div class="col">
+<!--     <div class="col">
        <img align="left" alt="GIF" src="https://miro.medium.com/v2/resize:fit:1000/1*Bo6lga5VP5e4o_G6uJ-U-Q.gif" width="250" height="250" />&nbsp; 
        <img align="left" alt="GIF" src="https://miro.medium.com/v2/resize:fit:3054/1*iZkt37UpqKojcP2ZQTuEOA.gif" width="250" height="250" />
-      <br />
-    </div>
-    
-    <div class="col">
+    </div> -->
+  <div class="col">
       <h3 align="left">Languages and Tools:</h3>
         <p align="right"> 
           <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
