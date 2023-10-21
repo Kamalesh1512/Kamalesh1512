@@ -91,7 +91,7 @@
           </p>
     </div>
     <div class ="col">
-      <h4 align="left">Support:</h4>
+      <h3 align="left">Support:</h3>
       <h4 align="left">Show your support by starring ⭐ some of the repositories  ! </h4>
     </div>
   </div>
