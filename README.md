@@ -30,7 +30,7 @@
 <div class="container">
   <div class="row">
     <div class="col">
-       <img align="left" alt="GIF" src="https://miro.medium.com/v2/resize:fit:1000/1*Bo6lga5VP5e4o_G6uJ-U-Q.gif" width="250" height="250" />
+       <img align="left" alt="GIF" src="https://miro.medium.com/v2/resize:fit:1000/1*Bo6lga5VP5e4o_G6uJ-U-Q.gif" width="250" height="250" /><br>
        <img align="left" alt="GIF" src="https://miro.medium.com/v2/resize:fit:3054/1*iZkt37UpqKojcP2ZQTuEOA.gif" width="250" height="250" />
     </div>
     <div class="col">
