@@ -6,8 +6,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=2FF716&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Hi!!!+Welcome+To+My+GitHub+Profile;I'm+Kamalesh+%2C+Full Stack+Data+Scientist" alt="Typing SVG" /></a>
 </p>
 
-<h5 align="center">⚠️Info:Looking For New Opportunities In Data Science/AI/ML⚠️</h5>
-<h5 align="center">Experience in Building AI/ML Models </h5>
+<h5 align="center">⚠️Info:Looking For New Opportunities In Data Science/AI/ML Developer/Full stack Developer⚠️</h5>
+<h5 align="center">Experience in Building ML Models </h5>
 
 <p align="justify">Hello👋, I Bring Technical Expertise in Python, SQL, and a Range of AI Disciplines, Including Machine Learning, Deep Learning, and I Have Keen Interest in the Niche Area, Computer Vision,NLP.</p>
 
