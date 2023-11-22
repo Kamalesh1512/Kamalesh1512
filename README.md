@@ -84,7 +84,7 @@
       <p align="left">
           <a href="mailto:kmgowda1512@gmail.com" target="blank">
             <img align="center" src="https://help.sumologic.com/img/integrations/saas-cloud/gmail-icon.png" width=25px height=25px/></a>
-          <a href="https://www.linkedin.com/in/kamalesh-mahadevappa-0a74b717a/" target="blank">
+          <a href="https://www.linkedin.com/in/kamalesh-mahadevappa/" target="blank">
             <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=25px height=25px/></a>
           <a href="https://www.kaggle.com/kamalesh1997" target="blank">
             <img align="center" src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png" width=25px height=25px/></a>
