@@ -23,7 +23,7 @@
        <img align="left" alt="GIF" src="https://miro.medium.com/v2/resize:fit:1000/1*Bo6lga5VP5e4o_G6uJ-U-Q.gif" width="250" height="250" /> 
        <img align="left" alt="GIF" src="https://miro.medium.com/v2/resize:fit:3054/1*iZkt37UpqKojcP2ZQTuEOA.gif" width="250" height="250" />
     </div> -->
-  <div class="col">
+<!--   <div class="col">
       <h3 align="left">Languages and Tools:</h3>
         <p align="left"> 
           <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
@@ -69,7 +69,7 @@
           <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
           </p>
-    </div>
+    </div> -->
   </div>
   <div class="row">
     <div class="col">
