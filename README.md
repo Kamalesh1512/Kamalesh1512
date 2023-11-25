@@ -23,7 +23,7 @@
 <!--       <a href = "https://github.com/Kamalesh1512">
       <img src="https://github-readme-stats.vercel.app/api?username=Kamalesh1512&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true"></a>
       &nbsp; -->
-      [![Kamalesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamalesh1512)](https://github.com/Kamalesh1512/github-readme-stats)
+  ![Kamalesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamalesh1512&show_icons=true)
     </div>
     <div class="col">
       <h3 align="left">Connect</h3>
