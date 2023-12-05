@@ -23,8 +23,9 @@
       <a href="https://github.com/Kamalesh1512">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalesh1512&hide=dockerfile,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-    <a href = "https://github.com/Kamalesh1512">
-      <img src="https://github-readme-stats.vercel.app/api?         username=Kamalesh1512&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true"/></a> &nbsp;
+    <a href ="https://github.com/Kamalesh1512">
+      
+  <img src="https://github-readme-stats.vercel.app/api?username=Kamalesh1512&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true?"/></a> &nbsp;
     </div>
     <div class="col">
       <h3 align="left">Connect</h3>
