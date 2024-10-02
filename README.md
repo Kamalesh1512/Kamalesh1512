@@ -11,7 +11,7 @@
 
 <p align="justify">Hello👋, I Bring Technical Expertise in Python, SQL, and a Range of AI Disciplines, Including Machine Learning, Deep Learning, and I Have Keen Interest in the Niche Area,NLP.</p>
 
-🔭 I’m currently working on: **UpSkilling in Artificial Intelligence/Machine Learning Fields**
+🔭 I’m currently working on: **UpSkilling in Artificial Intelligence/Machine Learning Field**
 
 <div class="container">
   <div class="row">
